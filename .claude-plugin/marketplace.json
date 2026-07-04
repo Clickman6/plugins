@@ -1,0 +1,16 @@
+{
+  "name": "plugins",
+  "owner": {
+    "name": "Clickman"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "todo",
+      "source": "./todo",
+      "description": "Manage a project TODO.md: add notes, scan code for TODO/FIXME/BUG-style comments, run an interactive session picker, and clean up completed tasks."
+    }
+  ]
+}

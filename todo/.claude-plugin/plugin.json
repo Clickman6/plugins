@@ -1,0 +1,8 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Manage a project TODO.md: add notes, scan code for TODO/FIXME/BUG-style comments, run an interactive session picker, and clean up completed tasks.",
+  "author": {
+    "name": "Clickman"
+  }
+}
