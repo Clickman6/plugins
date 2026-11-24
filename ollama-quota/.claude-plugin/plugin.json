@@ -1,0 +1,10 @@
+{
+  "name": "ollama-quota",
+  "version": "0.1.0",
+  "description": "Day and Month Ollama Cloud quota in the Claude Code statusline, appended after claude-hud.",
+  "author": {
+    "name": "Clickman"
+  },
+  "license": "MIT",
+  "keywords": ["statusline", "ollama", "quota", "balance", "claude-hud"]
+}

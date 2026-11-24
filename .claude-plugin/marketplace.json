@@ -11,6 +11,15 @@
       "name": "todo",
       "source": "./todo",
       "description": "Manage a project TODO.md: add notes, scan code for TODO/FIXME/BUG-style comments, run an interactive session picker, and clean up completed tasks."
+    },
+    {
+      "name": "ollama-quota",
+      "source": "./ollama-quota",
+      "description": "Day and Month Ollama Cloud quota in the Claude Code statusline, appended after claude-hud.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Clickman"
+      }
     }
   ]
 }

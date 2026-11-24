@@ -5,6 +5,7 @@ A personal collection of Claude Code plugins, distributed through one marketplac
 ## Plugins
 
 - [`todo`](todo/README.md) — manage a project `TODO.md`: add notes, scan code for TODO/FIXME/BUG-style comments, run an interactive session picker, and clean up completed tasks.
+- [`ollama-quota`](ollama-quota/README.md) — append Day and Month Ollama Cloud quota to the Claude Code statusline, after the existing statusline.
 
 ## Install
 
@@ -12,12 +13,14 @@ A personal collection of Claude Code plugins, distributed through one marketplac
 ```
 /plugin marketplace add Clickman6/plugins
 /plugin install todo@plugins
+/plugin install ollama-quota@plugins
 ```
 
 **From a local clone:**
 ```
 /plugin marketplace add /path/to/plugins
 /plugin install todo@plugins
+/plugin install ollama-quota@plugins
 ```
 
 Then run `/plugin list` to confirm it's installed and enabled.
